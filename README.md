@@ -6,10 +6,12 @@ Neural style transfer refers to algorithms that manipulate the original images a
 
 In this project, we plan to do a comparative study on two neural style transfer techniques:
 
-1. [Neural Style Transfer]()
-2. [cycleGAN]()
+1. [Neural Style Transfer](https://arxiv.org/abs/1508.06576)
+2. [cycleGAN](https://junyanz.github.io/CycleGAN/)
 
-We utilizedcloud services for deep learning model training and deployed the trained model on IBM Cloud using Kubernetes services. Also, we evaluated the ML systems using the performance factors covered in our course.
+We utilized cloud services  for deep learning model training and deployed the trained model on IBM Cloud using Kubernetes services. Also, we evaluated the ML systems using the performance factors covered in class.
+
+Feel free to read our observations and conclusions in the summary report. 
 
 # Authors
 
